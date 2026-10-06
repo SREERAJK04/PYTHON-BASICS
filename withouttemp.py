@@ -1,0 +1,7 @@
+n1=int(input("Enter the value of orange: "))
+n2=int(input("Enter the value of apple: " ))
+print("Value of orange: ",n1)
+print("Value of apple: ",n2)
+(n1,n2)=(n2,n1)
+print("swapped Value of orange: ",n1)
+print("swapped Value of apple: ",n2)

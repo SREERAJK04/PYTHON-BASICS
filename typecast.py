@@ -1,0 +1,6 @@
+x=input("Enter a number : ")
+y=input("Enter another number : ")
+print(x+y)
+x1=int(x)
+y1=int(y)
+print(x1+y1)
